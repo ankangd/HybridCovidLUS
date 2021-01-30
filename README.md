@@ -7,6 +7,18 @@ The proposed method consists of two stages:
 
 ![Pipeline](https://github.com/ankangd/HybridCovidLUS/blob/main/imgs/pipeline.png)
 
+
+## Results
+### Frame-based Score Prediction
+
+<p align="center">
+    <img src="https://github.com/ankangd/HybridCovidLUS/blob/main/imgs/Table_2.png" width="800"> <br />
+    <em> 
+    </em>
+</p>
+
+
 ## Dataset
 
 The dataset used in this study is presented [here](https://www.disi.unitn.it/iclus).
+
