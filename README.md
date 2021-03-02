@@ -31,3 +31,17 @@ The proposed method consists of two stages:
 
 The dataset used in this study is presented [here](https://www.disi.unitn.it/iclus).
 
+## Citation
+
+Please cite our paper if you find the work useful:
+
+    @article{DASTIDER2021104296,
+    title = {An integrated autoencoder-based hybrid CNN-LSTM model for COVID-19 severity prediction from lung ultrasound},
+    journal = {Computers in Biology and Medicine},
+    pages = {104296},
+    year = {2021},
+    issn = {0010-4825},
+    doi = {https://doi.org/10.1016/j.compbiomed.2021.104296},
+    url = {https://www.sciencedirect.com/science/article/pii/S0010482521000901},
+    author = {Ankan Ghosh Dastider and Farhan Sadik and Shaikh Anowarul Fattah},
+    }
